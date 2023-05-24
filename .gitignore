@@ -1,3 +1,4 @@
-demo/
-output/
-trained_models/
+#demo/
+#output/
+#trained_models/
+.idea/
